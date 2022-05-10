@@ -2,8 +2,8 @@
 
 # Description :
 
-This project demos how to create a simple HTTP server using python.
-and also , how to access server using libcurl in C / C++
+This project demos how to create a simple HTTP server using python,
+and also how to access server using libcurl in C / C++
 
 # To Build :
 
